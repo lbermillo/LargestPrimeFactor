@@ -6,4 +6,4 @@ This is problem 3 of the Project Euler challenge series. The problem states:
 
 **What is the largest prime factor of the number 600,851,475,143?**
 
-#### Note: I started this repo to work on my unit testing skills in Java, so to see how the code works please see PrimeFactorizationTest.java file
+###### Note: I started this repo to work on my unit testing skills in Java, so to see how the code works please see PrimeFactorizationTest.java file
